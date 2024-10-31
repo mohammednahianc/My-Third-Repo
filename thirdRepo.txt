@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-hello barua
-=======
-hello ranan
+
+hello ranan Rajdip
 hello nahiyan
->>>>>>> d5a6bf96fa5ece660efdb3d40d18063779f75d1e
+14007e83de29049c58c78fcb7ad0dbccc0ed6fff
