@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello barua
+=======
+hello ranan
+hello nahiyan
+>>>>>>> d5a6bf96fa5ece660efdb3d40d18063779f75d1e
